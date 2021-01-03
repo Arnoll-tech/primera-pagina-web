@@ -1,0 +1,30 @@
+body {
+    text-align: center;
+    margin: auto;
+    background-color: aliceblue
+}
+
+
+div {
+    font-family: italic;
+    padding: 45px;
+}
+
+header {
+    background-color: cadetblue;
+    padding: 30px;
+
+
+}
+
+p {
+    font-family: italic;
+    font-size: 20px;
+
+
+}
+
+header {
+    border: 5px solid;
+
+}
